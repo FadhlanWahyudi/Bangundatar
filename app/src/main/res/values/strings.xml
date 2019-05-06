@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bangun datar</string>
+    <string name="rumus_luas_jajar_genjang">Rumus luas Jajar Genjang</string>
+    <string name="MasukanAlas">Masukan  Alas</string>
+    <string name="tinggi">Masukan Tinggi</string>
+    <string name="hasil">HITUNG</string>
+    <string name="intent">Intent</string>
+    <string name="intent_dengan_data">Intent Dengan Data</string>
+    <string name="intent_implicit">Intent Implicit</string>
+    <string name="hapus">hapus</string>
+</resources>
